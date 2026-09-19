@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "title": "Uluslararası iş birlikleri güçleniyor",
+    "summary": "Karabük Üniversitesi farklı ülkelerden üniversitelerle eğitim, araştırma ve proje çalışmalarını geliştiriyor.",
+    "category": "Haber",
+    "date": "2026-02-05"
+  },
+  {
+    "id": 2,
+    "title": "Bartın OSB'de su verimliliği",
+    "summary": "Su kaynaklarının daha verimli kullanılması ve sürdürülebilir su yönetimi için teknik değerlendirmeler gerçekleştirildi.",
+    "category": "Haber",
+    "date": "2026-05-18"
+  }
+]
